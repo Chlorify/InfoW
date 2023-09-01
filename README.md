@@ -1,6 +1,9 @@
 # InfoW
-A python project which shows some information about hardware.
+InfoW is a python project which shows some information about hardware.
 
+How to use? 
 
-
-Hİ!
+First make sure that python is installed:
+'''
+https://www.python.org/downloads/
+'''
